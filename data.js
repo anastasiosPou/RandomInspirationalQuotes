@@ -2,8 +2,8 @@
 This file contains the neccessary data for the app
 to work. (Quotes)
 */
-
-const quotes = [
+//This array will be exported to the index.js
+ exports.quotes = [
   {quote: "The great advantage about telling the truth is that nobody ever believes it.", author: "Dorothy L. Sayers"},
   {quote: "I have no special talent. I am only passionately curious.", author: "Albert Einstein"},
   {quote: "Wisely, and slow. They stumble that run fast", author: "William Shakespeare"},
